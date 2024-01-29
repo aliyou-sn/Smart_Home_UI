@@ -1,5 +1,5 @@
-#ifndef _SQUARELINE_PROJECT_UI_HELPERS_H
-#define _SQUARELINE_PROJECT_UI_HELPERS_H
+#ifndef _UI_HELPERS_H
+#define _UI_HELPERS_H
 
 #ifdef __cplusplus
 extern "C" {

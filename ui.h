@@ -1,6 +1,6 @@
 
-#ifndef _SQUARELINE_PROJECT_UI_H
-#define _SQUARELINE_PROJECT_UI_H
+#ifndef _UI_H
+#define _UI_H
 
 #ifdef __cplusplus
 extern "C" {
